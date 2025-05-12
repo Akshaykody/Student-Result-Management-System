@@ -35,8 +35,16 @@ A simple command-line Java application to manage and analyze student results. Bu
    javac *.java
    java Main
 
-* About Me
+## 👨‍💻 About Me
 
-👨‍💻 Developed by Akshay — passionate about software development, Java, and real-world projects.  
-🎯 Open to roles in backend development and data engineering.
+Hi, I'm Akshay — a passionate Computer Science student with a background in Mechanical Engineering (Diploma) and a deep interest in **electronics, software development**, and **DIY projects**. I love building real-world solutions using **Java, Python, Arduino, and ESP32**, and I'm currently focused on enhancing my skills in **Data Engineering, IoT, and Robotics**.
+
+I'm actively working on both hardware and software-based academic projects and have also earned through freelance project development. I'm now preparing to apply for full-time roles and internships in **software development** and **embedded systems**, aiming for impactful contributions to real-world tech products.
+
+-  Tech Stack: Java, Python, SQL, Firebase, Arduino, ESP32, Git
+-  Exploring: Data Engineering, Robotics, and Cloud Integration
+-  Always excited to solve problems and build new things!
+
+
+
 
